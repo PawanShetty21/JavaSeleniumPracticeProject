@@ -1,0 +1,39 @@
+12:09:55.247 [main] INFO  testCases.TestLogger - INFO
+12:09:55.252 [main] WARN  testCases.TestLogger - WARN
+12:09:55.252 [main] ERROR testCases.TestLogger - ERROR
+12:09:55.252 [main] FATAL testCases.TestLogger - FATAL
+12:14:15.073 [main] INFO  testCases.TestLogger - INFO
+12:14:15.078 [main] WARN  testCases.TestLogger - WARN
+12:14:15.078 [main] ERROR testCases.TestLogger - ERROR
+12:14:15.078 [main] FATAL testCases.TestLogger - FATAL
+12:17:24.193 [main] INFO  testCases.TestLogger - Set up complete
+12:17:37.110 [main] INFO  testCases.TestLogger - Clicked on Login
+12:50:24.224 [main] INFO  testCases.TestLogger - ***  Starting TC_001_AccountRegistrationTest ***
+12:50:24.255 [main] INFO  testCases.TestLogger - ***  Starting TC_001_AccountRegistrationTest ***
+12:50:24.262 [main] INFO  testCases.TestLogger - ***  Starting TC_001_AccountRegistrationTest ***
+12:50:24.268 [main] INFO  testCases.TestLogger - ***  Starting TC_001_AccountRegistrationTest ***
+12:52:10.803 [main] INFO  testCases.TestLogger - ***  Starting TC_001_AccountRegistrationTest ***
+12:52:10.828 [main] INFO  testCases.TestLogger - ***  Starting TC_001_AccountRegistrationTest ***
+12:52:10.835 [main] INFO  testCases.TestLogger - ***  Starting TC_001_AccountRegistrationTest ***
+12:52:10.842 [main] INFO  testCases.TestLogger - ***  Starting TC_001_AccountRegistrationTest ***
+12:53:05.593 [main] INFO  testCases.TestLogger - ***  Starting TC_001_AccountRegistrationTest ***
+12:53:06.602 [main] INFO  testCases.TestLogger - *** Clicked on login button ***
+12:53:06.855 [main] INFO  testCases.TestLogger - *** Entered username ***
+12:53:07.435 [main] INFO  testCases.TestLogger - *** Clicked on next button ***
+12:53:12.570 [main] INFO  testCases.TestLogger - *** Entered password ***
+12:53:12.698 [main] INFO  testCases.TestLogger - *** Clicked on signIn button ***
+12:53:17.704 [main] INFO  testCases.TestLogger - ***  Starting TC_001_AccountRegistrationTest ***
+12:53:17.745 [main] INFO  testCases.TestLogger - ***  Starting TC_001_AccountRegistrationTest ***
+12:53:17.777 [main] INFO  testCases.TestLogger - ***  Starting TC_001_AccountRegistrationTest ***
+13:11:28.948 [main] INFO  - ***  Starting TC_001_AccountRegistrationTest ***
+13:11:29.854 [main] INFO  - *** Clicked on login button ***
+13:11:30.013 [main] INFO  - *** Entered username ***
+13:11:31.160 [main] INFO  - ***  Starting TC_001_AccountRegistrationTest ***
+13:11:31.183 [main] INFO  - ***  Starting TC_001_AccountRegistrationTest ***
+13:11:31.203 [main] INFO  - ***  Starting TC_001_AccountRegistrationTest ***
+13:12:09.703 [main] INFO  testCases.TestLogger - ***  Starting TC_001_AccountRegistrationTest ***
+13:12:10.625 [main] INFO  testCases.TestLogger - *** Clicked on login button ***
+13:12:10.844 [main] INFO  testCases.TestLogger - *** Entered username ***
+13:12:12.018 [main] INFO  testCases.TestLogger - ***  Starting TC_001_AccountRegistrationTest ***
+13:12:12.045 [main] INFO  testCases.TestLogger - ***  Starting TC_001_AccountRegistrationTest ***
+13:12:12.070 [main] INFO  testCases.TestLogger - ***  Starting TC_001_AccountRegistrationTest ***

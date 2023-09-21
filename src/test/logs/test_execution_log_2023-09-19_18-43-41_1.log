@@ -1,0 +1,6 @@
+18:43:41.748 [main] INFO  testCases.TestLogger - ***  Starting Login Test ***
+18:43:43.024 [main] INFO  testCases.TestLogger - *** Clicked on login button ***
+18:43:43.344 [main] INFO  testCases.TestLogger - *** Entered username ***
+18:43:48.497 [main] INFO  testCases.TestLogger - *** Clicked on next button ***
+18:43:53.525 [main] INFO  testCases.TestLogger - *** Entered password ***
+18:43:53.542 [main] INFO  testCases.TestLogger - *** Clicked on signIn button ***
