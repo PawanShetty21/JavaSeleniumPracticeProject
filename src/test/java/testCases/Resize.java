@@ -1,10 +1,7 @@
 package testCases;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.Color;
@@ -49,15 +46,41 @@ Product 2 checkbox
 
         WebElement  ele1 = driver.findElement(By.xpath("//div[@class='ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se']"));
 
-        action.dragAndDropBy(ele1, 200, 100).perform();
+//        action.dragAndDropBy(ele1, 1000, 2000).perform();
 
-        WebElement  ele2 = driver.findElement(By.xpath("//a[normalize-space()='1']"));
+//        Point p = ele1.getLocation();
+//        System.out.println(p.getX());
+//        System.out.println(p.getY());
 
-        String clr =  ele2.getCssValue("background-color");
+
+        WebElement  ele2 = driver.findElement(By.xpath("//div[@id='resizable']"));
+
+
+//
+//        Dimension d = ele2.getSize();
+//        System.out.println(d.height);
+//        System.out.println(d.width);
+
+        Rectangle r = ele2.getRect();
+        System.out.println(r.width);
+        System.out.println(r.height);
+
+        System.out.println(r.getX());
+        System.out.println(r.getY());
+
+
+
+
+
+        WebElement  ele3 = driver.findElement(By.xpath("//a[normalize-space()='1']"));
+
+        String clr =  ele3.getCssValue("background-color");
         System.out.println(clr);
 
         Color color = Color.fromString(clr);
         System.out.println(color.asHex());
+
+
 
 
 
